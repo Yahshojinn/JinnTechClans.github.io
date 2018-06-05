@@ -1,2 +1,2 @@
-# reignofiron.github.io
-Clan website for Destiny 2 PC clan Reign of Iron
+# JinnTechClans.github.io
+Website for Destiny 2 PC clan scheduling
